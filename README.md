@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/adarshgumashta" target="blank"><img src="https://img.shields.io/twitter/follow/adarshgumashta?logo=twitter&style=for-the-badge" alt="adarshgumashta" /></a> </p>
 
-- ?? I’m currently working on **Android**
+- :star: I’m currently working on **Android**
 
-- ?? I regularly write articles on [Android](Android)
+- :star: I regularly write articles on [Android](Android)
 
-- ?? How to reach me **adarshgumashta@gmail.com**
+- :star: How to reach me **adarshgumashta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
